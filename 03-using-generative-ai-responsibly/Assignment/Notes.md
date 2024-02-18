@@ -6,7 +6,7 @@ tags:
 URL: https://github.com/microsoft/generative-ai-for-beginners/blob/main/03-using-generative-ai-responsibly/README.md
 ---
 # Generative AI Responsibility
-
+.
 ### Hallucinations
 nonsensical/factually wrong generations by Foundation Models
 
