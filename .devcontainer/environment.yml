@@ -1,0 +1,7 @@
+name: microsoft-ai
+channels:  
+ - defaults
+dependencies:  
+- python=3.10.4 
+- openai  
+- python-dotenv
