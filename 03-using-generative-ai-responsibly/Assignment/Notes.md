@@ -30,3 +30,9 @@ select a system that covers as small a set as possible to reduce risks
 #### Metaprompts
 ### Operate
 ### Identify
+
+
+## Azure AI Content Safety
+Has tools for monitoring content regarding Text, Images, and online activity, with some limitations for sizes (ie. 10k chars or in the range of 50x50 - 2048x2048 px). for images this can likely be circumvented with some resizing, not sure about text.
+
+[Content Safety page](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/overview?WT.mc_id=academic-105485-koreyst)
